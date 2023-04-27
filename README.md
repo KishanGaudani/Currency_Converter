@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/121867877/234806021-49663c71-4d42-4fb0
 
 ## 📝 License
 
-Copyright © [Harshil Aslaliya](https://github.com/HarshilAslaliya). <br>
+Copyright © [Kishan Gaudani](https://github.com/KishanGaudani). <br>
 This project is [MIT](License.md) licensed.
 
 ---
