@@ -61,7 +61,7 @@ This project is [MIT](LICENCE) licensed.
 ---
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/121867931/234645638-c4f5dd85-3b38-4097-b479-b2a1551665ec.png" width="200px" height="200px">
+<img src="https://user-images.githubusercontent.com/121867877/234808816-c0148318-6d8d-4cad-bfd9-73c3c7fba911.png" width="200px" height="200px">
 
 ---
 ### You can show some respect by starring 🌟 the repository!
