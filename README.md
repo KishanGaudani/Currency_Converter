@@ -37,8 +37,6 @@ These are Currency Converter app using Currency convert (ex. EURO to INR).
 <img align="left" src="https://user-images.githubusercontent.com/121867877/234801749-d6f8c1ef-9c14-4dd5-a4f4-6ccfff9dd0cb.png" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/121867877/234801768-25b76cbb-3c3a-40a3-b564-532311df01c3.png" width="220px">
 
-<br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## 📲 Dark Theme
 
 <img align="left" src="https://user-images.githubusercontent.com/121867877/234803334-17a48eaf-e098-4ed8-9c89-012ed40375f4.png" width="220px">
