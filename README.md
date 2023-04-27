@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/121867877/234806021-49663c71-4d42-4fb0
 ## 📝 License
 
 Copyright © [Kishan Gaudani](https://github.com/KishanGaudani). <br>
-This project is [MIT](License.md) licensed.
+This project is [MIT](LICENCE) licensed.
 
 ---
 <div align="center">
